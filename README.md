@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi 👋
+
+My name is Alex. Thanks for visiting!
+
+----> To learn more about me, head to [alexdean.io](https://alexdean.io/).
 
 <!--
 **alexjdean/alexjdean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
